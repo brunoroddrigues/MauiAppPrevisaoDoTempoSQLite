@@ -7,3 +7,7 @@ Este aplicativo permite ao usuário consultar a previsão do tempo para diferent
 - **Consultar previsão do tempo**: O usuário pode pesquisar a previsão do tempo para uma determinada data e cidade.
 - **Armazenamento local com SQLite**: Todas as previsões consultadas são armazenadas em um banco de dados SQLite local.
 - **Histórico de previsões**: O usuário pode consultar previsões passadas, armazenadas no banco de dados.
+
+
+
+#Aluno: Bruno Aparecido Rodrigues
